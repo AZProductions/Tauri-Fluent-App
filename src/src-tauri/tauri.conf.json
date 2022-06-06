@@ -4,7 +4,7 @@
 		"beforeDevCommand": "npm run dev",
 		"beforeBuildCommand": "npm run build",
 		"devPath": "http://localhost:3000",
-		"distDir": "../build"
+		"distDir": "../public"
 	},
 	"package": {
 		"productName": "tauri-fluent-app",
